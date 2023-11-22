@@ -11,3 +11,7 @@ Infographics and graphs to give a clear picture.
 ## 3. Data Dashboard (Google Data Studio):
 Interactive dashboards that allow users to explore data in greater depth.
 Dynamic graphs to visualize trends and comparisons between bad habits.
+On the dashboard data you can see directly from the total number of patients as many as 319795 patients with different bad habits with filters for each bad habit that you can atus at will or adjust to your own bad habits, here is the dashboard data link: https://lookerstudio.google.com/reporting/4ed47d54-2c85-430b-aaa4-f42f21eed821
+
+![image](https://github.com/fadhiljr7/The-Influence-of-Bad-Habits/assets/48880516/d6496b13-3bc2-4def-bf55-2d0e82ced3af)
+
